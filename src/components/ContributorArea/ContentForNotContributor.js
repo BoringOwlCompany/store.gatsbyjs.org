@@ -42,9 +42,8 @@ class ContentForNotContributor extends Component {
           come back here to claim free swag.
         </Text>
         <Text>
-          If you have questions, ask on any issue (you can tag{' '}
-          <a href="https://github.com/orgs/gatsbyjs/teams/learning">@gatsbyjs/learning</a> if you’d
-          like) or hit us up{' '}
+          If you have questions, ask on any issue (you can tag @gatsbyjs/learning
+          if you’d like) or hit us up{' '}
           <a href="https://twitter.com/gatsbyjs">on Twitter at @gatsbyjs</a>.
         </Text>
 
